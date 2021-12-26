@@ -13,7 +13,7 @@ const Latihan = () => {
 
         <Header 
           name="Logor" 
-          image="https://scontent.fcgk3-2.fna.fbcdn.net/v/t1.6435-9/72103795_114747836598527_93424407795466240_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeF696LHbPEHrqUOwTX-ba1wWntd1f2CsMVae13V_YKwxULzdN5X19ZULeHg9ywF5LnmjO01rktglnJyF1Io0VrI&_nc_ohc=ZqZdJ5YHPUAAX_Tx4uc&_nc_ht=scontent.fcgk3-2.fna&oh=9b674cdf9b1fce24514ecb2acc2fb388&oe=60E90494" 
+          image="https://lh3.googleusercontent.com/a-/AOh14GiCijaPPDfb-nmdVFlSFM6rpHzHlNNFOjhop56l=s288-p-no" 
           urlButton="http://facebook.com/logor.logor.315" 
         />
 
